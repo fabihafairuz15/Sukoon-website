@@ -1,0 +1,9 @@
+Fonts used in this design:
+
+Font: Spartan
+Author: Matt Bailey,Mirko Velimirovic
+Url: https://fonts.google.com/specimen/Spartan
+
+Font: Roboto Slab
+Author: Christian Robertson
+Url: https://fonts.google.com/specimen/Roboto+Slab

@@ -1,0 +1,164 @@
+EULA – End User License Agreement
+1Contractual relationship
+
+Format Foundry
+
+End User License Agreement
+
+This is an agreement between you, the purchaser and licensee, and Format Studio GmbH (hereafter Format Foundry). By purchasing, or downloading, or installing, or using, or otherwise handling the digital typeface software (hereafter fonts), you accept the terms of this agreement. In accepting the terms of this agreement, you acknowledge understanding and complying with its terms. This agreement replaces and supersedes any previously made oral or written proposal or agreement between you and Format Foundry.
+
+You are not purchasing the copyright to the design or any other part of the fonts, but the rights, meaning a non-exclusive, non-transferable, worldwide and perpetual license in which you can use the fonts as specified in this agreement.
+
+If you, the purchaser, are acting on behalf of the end user, you must ensure that the end user accepts this EULA as it is, i.e. without any alterations and / or amendments. You are not allowed to ask the end user any other price than the one offered by Format Foundry. You must not use the respective software yourself.
+
+1 / 6
+
+End User License Agreement 2 / 7
+
+2Definitions
+
+Wherever used in this EULA the meaning shall be the following:
+
+Within your organization
+“Within your organization” shall mean usage inside your company or organization, across all your business locations, but shall not include usage by clients or other third parties, including self-employed parties who are working for you but not at one of your business locations. Self- employed third parties temporarily working at one of your business locations on your devices are considered part of your organization.
+
+On servers under your control
+“On servers under your control” shall mean that all fonts are solely stored using online storage (hereafter servers) to serve websites for which you or your organization have sole administrative access to (aside from the owner of the server).
+
+Visitors per month
+“Visitors per month” shall mean the number of uniquely identifiable users visiting your websites. You have to record and control the number of monthly visitors by using an analytics tool generally recognized to be able to document the number of unique visitors to a website. You have to purchase a licensing upgrade if you exceed your monthly visitors limit at any point in order to cover that larger number of monthly visitors. Format Foundry reserves the right to request and receive screenshots of your analytics tool to prove that the amount of unique visitors per month is below the maximum limit of allowed visitors you have purchased licenses for.
+
+Embed
+“Embed” shall both mean the use of fonts in applications, meaning the embedding of the font files through various means (depending on the operating system and programming platform) into the application or an application package. The fonts are used by said application to style dynamic or static text inside those applications. You must neither embed the fonts into any physical devices directly nor save font files onto a device and sell, gift, ship, in any other way hand that device to any third party.
+
+Applications
+“Applications” shall mean applications able to run and function on one of the following operating system platforms, on versions that are less than 3 years old: Microsoft Windows, Apple MacOS, Apple iOS, Android, insofar as they support the font files as they are supplied by Format Foundry. Other operating systems are also covered under this agreement if they support the font files as they are supplied by Format Foundry, but Format Foundry can not offer any technical support.
+
+Licensing add-ons/Extended
+“Licensing add-ons” shall mean further licensing types, defined in add-ons to this agreement, that can be purchased in addition to the Desktop, Web, and App licensing.
+
+If you need to extend your license for special use, please contact us. Describe your project and how you plan to use the fonts and we’ll help you understand whether special licensing is required and if so, the cost and next steps.
+
+End User License Agreement 3 / 7 3Desktop licensing
+
+3.1 Usage rights
+
+Installations
+File handling
+Modification
+For Desktop licensing, the following terms apply:
+
+You are purchasing a certain amount of licenses to use fonts by Format Foundry on a certain number of devices within your organization. You may use the fonts for the creation of static or moving files like images and videos and print.
+
+The amount of devices you may install the fonts on depends on the amount of licenses purchased, as referenced during your purchase and on your invoice. You may not install the fonts on any further devices, aside from the archival copies.
+
+A copy of the fonts may be sent as part of a file release to a prepress bureau or printer if necessary. The fonts may be embedded into files of the Portable Document Format (PDF), PostScript (PS), and Encapsulated PostScript (EPS) types. The fonts must not be embedded into any other format under this license.
+
+You must not modify the fonts under any circumstance.
+
+End User License Agreement 4 / 7
+
+4Web Licensing
+
+For Web licensing, the following terms apply: 4.1 Usage rights
+
+You are purchasing a certain amount of licenses to use fonts by Format Foundry on web servers under your control, and under control of a single organization, to serve a specific number of website visitors per month. You are purchasing so-called self-hosted fonts that you host on your own servers.
+
+Installations
+For each license you purchase, you may install the fonts on any number of hosting services for any number of domains, as long as the overall number of monthly unique visitors of all websites served from those servers and domains added up is smaller than the number you have purchased licenses for and all those installations are within your organization.
+
+The number of allowed unique visitors is noted during your purchase and on your invoice.
+
+File handling
+The use of the fonts on devices in your organization is restricted to preparing their use on servers, for activities generally called “web development”.A copy of the fonts may be sent to a third-party website developer if necessary. The fonts may be embedded into websites using the CSS @font-face technique or similar. The fonts may not be embedded into any other format or in any other way under this license.
+
+You must not use the fonts to create or save raster, texture or vector images.
+
+Modification
+You may not modify the fonts under any circumstance, except by subsetting the character set of the fonts, meaning using an application or service to reduce the number of characters or features in the font while not modifying any of the underlying character designs (also known as the design of the typeface) or font name tables. You may not, under any circumstances, modify the design of the typeface or its font name tables. Any rights, including but not limited to copyrights and trademarks, of both the original version and the edited version remains with Format Foundry and their respective owners, and the number of unique website visitors covered by the license remains the same overall. Outside of their legal use as described in this license, you may not distribute, lend, rent, sell, give away, publicly or privately share any modified or unmodified version of the fonts. Format Foundry does not offer any support for or guarantee the proper functioning of any modified fonts.
+
+End User License Agreement 5 / 7
+
+5App Licensing
+
+‘App-Font’ or ‘Font’ is defined as the design of the Font and the Software that produces a typeface design.
+
+App fonts are licensed on the basis of how many users install your app. Licensing starts at 500 app installations up to 500,000 installations. If you exceed your already purchased installations, you can come back to buy more.
+
+For App licensing, the following terms apply: 5.1 Usage rights
+
+You are purchasing a license to use fonts by Format Foundry in an application. If you exceed the number of app installations, you may need to purchase additional, per-download licenses.
+
+Installations
+The number of developers who may use the fonts for development of the application depends on the amount of licenses purchased, as referenced during your purchase and on your invoice. You may not install the fonts on any further devices or use them by further developers, aside from archival copies.The use of the fonts on devices in your organization is restricted to preparing their use in applications, for activities generally called “application development”. The fonts may not be used aside from the fonts’ use as embedded fonts in your applications.
+
+File handling
+A copy of the fonts may be sent to a third-party app developer if necessary, and these developers count towards your licensed number of developers. The fonts may not be embedded into any other format or in any other way under this license. Embedding of the font with the CSS @font-face technology is expressly prohibited, also creating what is commonly known as «virtual terminals». Embedding of the font into computer files other than application files (for example document formats like PDF, EPS, and PS) is expressly prohibited. You must not use the fonts to create or save raster, textures or vector images or documents in your applications.
+
+Modification
+You must not modify the fonts under any circumstance.
+
+Licensing beyond what’s on our site
+Our desktop, webfont and mobile app licenses are tailored to meet the majority of our customer’s needs, but we understand there are scenarios beyond these three.
+
+Webfont licenses almost always limit the number of page views (whether on a cumulative or monthly basis) allowed, and digital ads licenses typically restrict the number of ad impressions that may be generated.
+
+End User License Agreement 6 / 7
+
+6Broadcast
+
+Usage rights
+When you get a Broadcasting License, you’ll be able to use the fonts in one broadcasting title for use in titles, credits or any other text on-screen, but you can go up to every amount you want, with our custom licensing models.
+
+File handling
+You are not allowed to use the Broadcast fonts for commercial uses. This means merchandise or products in which the type is part of the visual element, such as a movie poster or a phrase on a mug or t-shirt, for instance. This can be allowed with an additional license. Contact us at info_at_format_dot_ch (format foundry)
+
+A copy of the fonts may be sent to a third-party app developer if necessary, and these developers count towards your licensed number of developers. The fonts may not be embedded into any other format or in any other way under this license. Embedding of the font with the CSS @font-face technology is expressly prohibited, also creating what is commonly known as «virtual terminals». Embedding of the font into computer files other than application files (for example document formats like PDF, EPS, and PS) is expressly prohibited. You must not use the fonts to create or save raster, textures or vector images or documents in your applications.
+
+Installation
+You can generate digital documents with the fonts just for Screen View purposes. You cannot embed the fonts in any or any medium like a DVD, CD, BlueRay, Music Video, unless you acquire a specific license.
+
+Modification
+The User may not adapt, modify font spacing and kerning, create additional weights, modify existing characters, delete existing characters, or otherwise change the font software, or create derivative works from the font software or any portion thereof in exchange for a separate fee or other consideration without first obtaining written permission from Format Foundry.
+
+End User License Agreement 7 / 7
+
+7General
+
+Licensing add-ons
+The terms of any Licensing add-ons are in addition to the full terms of this agreement, unless otherwise noted.
+
+Warranty and support
+The Format Foundry (Licensor) warrants that the Font Software will perform materially in accordance with its stated specifications and that the media will be free from defects in material and workmanship. This warranty is for a period of thirty (30) days from date of purchase, during which time defective data will be replaced at no charge. Any remedy under this warranty is limited to return of the original data to Format Foundry for replacement and you shall not be entitled to any refund, damage, or otherwise. Atlas Font Foundry does not warrant the performance or results you may obtain by using the software. In no event Atlas Font Foundry will be liable to you for any direct or indirect damages, including lost profits or lost savings, computer failure, business interruption.
+
+Breach of contract
+Any breach of the terms and conditions of this agreement terminates your license to use the fonts. After any termination of the agreement you must destroy any copies of the fonts, including your archival copies. A breach of the terms of this EULA obligates you to pay a penalty of US$ 4.000.Further Legal Actions could be taken against you. This agreement will not be governed by the United Nation Convention on Contracts for the International Sale of Goods. This contract is subject to the law of Switzerland. Place of jurisdiction is Schaffhausen, Switzerland
+
+You still are obliged to obey this EULA.
+
+Rights reserved
+Any and all rights not expressly granted in this agreement are reserved to Format Foundry.
+
+The Licensee understands and agrees that the Font Software, and all copies thereof, and the Licensed Fonts are the sole and exclusive property of Format Foundry, and the Font Softwares structure, organization and code are valuable trade secrets of Format Foundry.
+
+This Agreement does not grant the Licensee any right to Intellectual Property Rights in the Font Software or in the Licensed Fonts. Intellectual Property Rights includes all trademarks, patents, patent applications, non-patented inventions, designs, design applications, non-registered designs, copyrights, trade secrets, know-how and any other intellectual property related to the Font Software and the Licensed Fonts.
+
+You shall ensure that any copy that the Licensee is permitted to make pursuant to this Agreement contains all copyright, trademark and any other proprietary notices (the Notices) present on the purchased Font Software. You undertake not to alter the Notices as contained in the Font Software.
+
+You acknowledge that the Font Software and the Licensed Fonts are protected in particular under applicable intellectual property laws.
+
+You acknowledge and agree that all intellectual property rights relating to software held by Format Foundry (such as the Font Software and any other programming used or developed by Format Foundry, in particular for the sale of typographic characters) are the sole and exclusive property and right of Format Foundry, both during the term of this Agreement and after its expiry. You shall refrain from taking any step which may infringe, impair or otherwise jeopardize Format Foundry’s intellectual property rights relating to such software.
+
+Warranties
+Format Foundry represents and warrants that it has the right and authority to enter into this licensing agreement and that the agreed upon deliverables do not infringe any third party intellectual property rights.
+
+Liability
+Format Foundry’s liability is limited to gross negligence and intent, as well as to the amount of the purchased licensing. It is under no account responsible for any lost revenue, time, etc.
+
+Marketing
+From the moment the use of a license is made in any way public by you Format Foundry is entitled to use your company’s name, as well as other trademarks and images and videos of the use, for marketing reasons only.
+
+Applicable law and court of jurisdiction
+This agreement shall be governed by and construed exclusively in accordance with Swiss law. Place of performance and exclusive place of jurisdiction is the location of the headquarters of Format Foundry, currently Schaffhausen, Switzerland.
+
+Edition November 2019, future editions subject to change.
